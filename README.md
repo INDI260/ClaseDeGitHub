@@ -1,2 +1,2 @@
 # ClaseDeGitHub
-Calse de github
+Clase de github
